@@ -1,0 +1,54 @@
+.p-blue{
+	color: #003662;
+}
+.title1{
+	font-size: 28px;
+}
+.text1{
+	font-size: 16px;
+}
+.text1-bold{
+	font-size: 16px;
+	font-style: bold;
+}
+.span-color{
+	color: #E5137E;
+}
+.center {
+	text-align: center;
+}
+.button{
+	background-color: white;
+	border-color: #003662;
+	padding: 16px 32px;
+	font-size: 19px;
+	margin: 2px 2px;
+	cursor: pinter;
+	transition-duration: 0.4s;
+	display: inline-block;
+	border-radius: 4px;
+}
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.under-line{
+	color: #005CA2;
+	text-decoration: underline;
+
+}
+.sub-title{
+	font-size: 20px;
+	align-content: left;
+	color: #858585;
+	opacity: 1;
+}
+.botonNext{
+	align-content: right;
+}
